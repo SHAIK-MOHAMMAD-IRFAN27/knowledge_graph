@@ -8,3 +8,12 @@
 -Integrated an OpenAI LLM with LangChain to enable natural language-to-Cypher query translation for intuitive data exploration.
 - Created a scalable FastAPI service to expose the natural language querying capabilities as a web API for potential recommendation applications.
 - Improved data understanding and query complexity compared to traditional tabular methods, laying the groundwork for advanced content recommendation
+
+## THIS WAS MY KNOWLEDGE GRAPH AT THE BEGINNING STAGE:
+
+![visualisation (4)](https://github.com/user-attachments/assets/b8543833-ee5b-45e3-b757-4dd0294bd56c)
+ 
+
+![visualisation (6)](https://github.com/user-attachments/assets/62486b86-a542-461d-bbe3-16d455a7cec0)
+
+
